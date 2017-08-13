@@ -47,3 +47,5 @@ Llegar a negociación
 
 Continúa la edición, ahora con 
 # GIT
+
+Ya está la parte local... con esta se trabajará
